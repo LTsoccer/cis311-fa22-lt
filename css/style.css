@@ -336,8 +336,13 @@ pre {
     margin: 25px auto;
   }
 
+  footer h1 {
+    margin-top: 2rem;
+  }
+
   .social {
-    margin: 10px auto;
+    margin: 20px auto;
+    margin-bottom: 2rem;
   }
 
   .docs-head img {
